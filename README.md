@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Adeshola05
-- 👀 I’m interested in softeware devolopment and fixing issues
+- 👋 Hi, I’m Gbenga Adegoke Adeshola
+- 👀 I’m interested in softeware engineer, Application development and bug fixing
 - 🌱 I’m currently learning phyton and javascript
-- 💞️ I’m looking to collaborate on application development and project
-- 📫 How to reach me 07083042329
+- 💞️ I’m looking to collaborate on application develoer, web developer and database administrator
+- 📫 How to reach me 07083042329, adex00520@gmail.com
 
 <!---
 Adeshola05/Adeshola05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
